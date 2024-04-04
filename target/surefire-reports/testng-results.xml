@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-03T15:59:50 IST" name="Suite" finished-at="2024-04-03T16:00:15 IST" duration-ms="24587">
+    <groups>
+    </groups>
+    <test started-at="2024-04-03T15:59:50 IST" name="Test" finished-at="2024-04-03T16:00:15 IST" duration-ms="24587">
+      <class name="MyTests.GuruTests">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:MyTests.GuruTests@51c668e3]" started-at="2024-04-03T15:59:50 IST" name="Setup" finished-at="2024-04-03T16:00:12 IST" duration-ms="22368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Login()[pri:0, instance:MyTests.GuruTests@51c668e3]" started-at="2024-04-03T16:00:12 IST" name="Login" finished-at="2024-04-03T16:00:14 IST" duration-ms="1692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Closeapp()[pri:0, instance:MyTests.GuruTests@51c668e3]" started-at="2024-04-03T16:00:14 IST" name="Closeapp" finished-at="2024-04-03T16:00:15 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeapp -->
+      </class> <!-- MyTests.GuruTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

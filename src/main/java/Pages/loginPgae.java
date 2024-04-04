@@ -3,7 +3,7 @@ package Pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class loginPgae {
+public class loginPgae extends BasePage{
 	
 	WebDriver driver;
 	
